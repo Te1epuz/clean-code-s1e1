@@ -44,6 +44,7 @@
 
 .tasks-add-wrapper {
   display: flex;
+  margin-top: 20px;
 }
 
 .tasks-list {
@@ -104,11 +105,6 @@
 }
 
 /* New Task */
-
-.tasks-title[for="tasks-add-input"] {
-  display: block;
-  margin: 0 0 20px;
-}
 
 #tasks-add-input {
     width: 318px;
